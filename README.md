@@ -2,13 +2,13 @@
 ## Machine Learning Predictions on eBay Auctions & CIFAR-10 Image Classification
 This repository contains two independent machine learning tasks for the semester project in Machine Learning: Methods and Algorithms (2024-2025) at the University of Piraeus:
 
-# eBay Auction Predictions
+### eBay Auction Predictions
 
 Predicting whether an auction will result in a sale.
 Estimating the final price of a successful auction.
 Classifying whether an auction’s closing price is above or below the average.
 
-# CIFAR-10 Image Classification
+### CIFAR-10 Image Classification
 
 Training machine learning models to classify images from the CIFAR-10 dataset.
 
