@@ -10,6 +10,6 @@ This repository contains two independent machine learning tasks for the semester
 
 ### CIFAR-10 Image Classification
 
-*Training machine learning models to classify images from the CIFAR-10 dataset.
+* Training machine learning models to classify images from the CIFAR-10 dataset.
 
 Although these tasks are unrelated in terms of data and objectives, they share common machine learning principles and techniques. This repository is structured to keep both projects separate while leveraging a unified workflow and best practices for data preprocessing, model training, and evaluation.
